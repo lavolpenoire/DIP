@@ -65,7 +65,7 @@
 
 - *pip install matplotlib*
 
-### 8. Встановити Jupter Notebook:
+### 8. Встановити Jupyter Notebook:
 
 - *pip install jupyter*
 
